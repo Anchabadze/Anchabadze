@@ -3,7 +3,7 @@
 - 👪 Father and husband
 - 🎵 Former concert promoter
 - 🎓 I’m currently learning blockchain technology, Solidity and smart contract auditing
-- 📫 Telegram [@anchabadze](https://t.me/anchabadze), Email zurab.anchabadze@gmail.com
+- 📫 Telegram [@anchabadze](https://t.me/anchabadze), Email zurab.anchabadze@gmail.com, X https://x.com/anchabadze
 
 ### Languages and Tools:
 
